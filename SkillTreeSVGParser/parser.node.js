@@ -41,7 +41,7 @@ function parseSVG(filePath) {
             // Group textElements into levels
             const levels = [];
             let currentLevel = [];
-            let levelNumber = 0;
+            let levelNumber = 1;
 
             textElements.forEach((element, index) => {
                 if (index === 0) {
@@ -66,7 +66,18 @@ function parseSVG(filePath) {
                 levels.push(currentLevel);
             }
 
-            console.log(levels);
+            // Flatten the levels into a single array
+            const flattenedTextElements = levels.flat(); // or use: const flattenedTextElements = [].concat(...levels);
+
+            console.log(flattenedTextElements);
+
+            let finalJSON = {
+                "Title": "CNC and Cam Skill Tree",
+                "Skills": flattenedTextElements
+            }
+
+            console.log(finalJSON);
+
         });
     });
 }
