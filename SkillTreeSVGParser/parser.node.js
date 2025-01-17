@@ -1,14 +1,13 @@
 const fs = require('fs');
 const xml2js = require('xml2js');
-
-let filePath = '../SkillTreeFiles/CNC and Cam Skill Tree/MakerSkillTree - cnc___cam.svg';
-
-
-parseSVG(filePath);
+const path = require('path');
 
 
+const baseDir = '/Users/donundeen/Documents/htdocs/MakerSkillTree';//'../SkillTreeFiles';
 
+// Function to parse SVG files
 function parseSVG(filePath) {
+    console.log(filePath);
     fs.readFile(filePath, 'utf8', (err, data) => {
         if (err) {
             console.error('Error reading SVG file:', err);
@@ -21,11 +20,17 @@ function parseSVG(filePath) {
                 return;
             }
 
-
             const textElements = [];
-            console.log(result.svg.text);
-            const textboxes = result.svg.text.filter(text => text.$.class.includes('textbox-inner'));
-            console.log(textboxes);    
+            let textboxes;
+
+            try {
+                // Attempt to filter text elements with the class "textbox-inner"
+                textboxes = result.svg.text.filter(text => text.$.class.includes('textbox-inner'));
+            } catch (filterError) {
+              //  console.error('Error filtering text elements:', filterError);
+                console.log(`Skipping invalid SVG file: ${filePath}`);
+                return; // Skip this SVG file
+            }
 
             textboxes.forEach(textbox => {
                 const textContent = textbox.tspan.map(tspan => tspan._).join(' ').replace(/\s+/g, ' ').trim();
@@ -65,19 +70,52 @@ function parseSVG(filePath) {
             if (currentLevel.length > 0) {
                 levels.push(currentLevel);
             }
-
             // Flatten the levels into a single array
             const flattenedTextElements = levels.flat(); // or use: const flattenedTextElements = [].concat(...levels);
 
-            console.log(flattenedTextElements);
+            // Remove x and y properties from each textElement
+            const finalTextElements = flattenedTextElements.map(({ x, y, ...rest }) => rest);
 
             let finalJSON = {
-                "Title": "CNC and Cam Skill Tree",
-                "Skills": flattenedTextElements
-            }
+                "Title": filePath,
+                "Skills": finalTextElements
+            };
 
-            console.log(finalJSON);
+//            console.log(finalJSON);
 
+            // Save the resulting JSON data to a file
+            const jsonFilePath = filePath.replace(/\.svg$/, '.json'); // Replace .svg with .json
+            fs.writeFile(jsonFilePath, JSON.stringify(finalJSON, null, 2), (err) => {
+                if (err) {
+                    console.error('Error writing JSON file:', err);
+                } else {
+                    console.log(`JSON data saved to ${jsonFilePath}`);
+                }
+            });
         });
     });
 }
+
+// Function to iterate through directories and find SVG files
+function findAndParseSVGs(dir) {
+    fs.readdir(dir, { withFileTypes: true }, (err, files) => {
+        if (err) {
+            console.error('Error reading directory:', err);
+            return;
+        }
+
+        files.forEach(file => {
+            const fullPath = path.join(dir, file.name);
+            if (file.isDirectory()) {
+                // Recursively search in subdirectories
+                findAndParseSVGs(fullPath);
+            } else if (file.isFile() && file.name.endsWith('.svg')) {
+                // Parse the SVG file
+                parseSVG(fullPath);
+            }
+        });
+    });
+}
+
+// Start the search for SVG files
+findAndParseSVGs(baseDir);

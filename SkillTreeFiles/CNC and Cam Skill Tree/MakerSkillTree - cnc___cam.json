@@ -1,0 +1,277 @@
+{
+  "Title": "CNC and Cam Skill Tree",
+  "Skills": [
+    {
+      "text": "Understand the limits of your machine",
+      "level": 1
+    },
+    {
+      "text": "Get safety gear and learn CNC safety",
+      "level": 1
+    },
+    {
+      "text": "Visit your local makerspace or woodworking club",
+      "level": 1
+    },
+    {
+      "text": "Use a CNC for the first time",
+      "level": 2
+    },
+    {
+      "text": "Use an endmill",
+      "level": 2
+    },
+    {
+      "text": "Use a feeds-and-speeds calculator",
+      "level": 2
+    },
+    {
+      "text": "Touch off material manually",
+      "level": 2
+    },
+    {
+      "text": "Make a 3D art piece",
+      "level": 3
+    },
+    {
+      "text": "Machine timber",
+      "level": 3
+    },
+    {
+      "text": "Fix stock with clamps or screws",
+      "level": 3
+    },
+    {
+      "text": "Break a tool",
+      "level": 4
+    },
+    {
+      "text": "Use a drill bit",
+      "level": 4
+    },
+    {
+      "text": "Generate your first G-code file",
+      "level": 4
+    },
+    {
+      "text": "Use tool offsets",
+      "level": 4
+    },
+    {
+      "text": "Make a mechanical part or tool",
+      "level": 5
+    },
+    {
+      "text": "Machine plastic",
+      "level": 5
+    },
+    {
+      "text": "Manually edit a G-code file",
+      "level": 5
+    },
+    {
+      "text": "See \"chatter\" in your part",
+      "level": 6
+    },
+    {
+      "text": "Use a ball mill",
+      "level": 6
+    },
+    {
+      "text": "Use peck drilling",
+      "level": 6
+    },
+    {
+      "text": "Use a digital probe to set origins",
+      "level": 6
+    },
+    {
+      "text": "Design and upload a project online",
+      "level": 7
+    },
+    {
+      "text": "Machine aluminum",
+      "level": 7
+    },
+    {
+      "text": "Use a vacuum table",
+      "level": 7
+    },
+    {
+      "text": "Use material that is too small",
+      "level": 8
+    },
+    {
+      "text": "Use a collet chuck",
+      "level": 8
+    },
+    {
+      "text": "Face off a part",
+      "level": 8
+    },
+    {
+      "text": "Use multiple work offsets",
+      "level": 8
+    },
+    {
+      "text": "Make a part to repair something",
+      "level": 9
+    },
+    {
+      "text": "Machine brass or copper",
+      "level": 9
+    },
+    {
+      "text": "Add tabs to a part",
+      "level": 9
+    },
+    {
+      "text": "Clean down a CNC",
+      "level": 10
+    },
+    {
+      "text": "Use a keyless chuck",
+      "level": 10
+    },
+    {
+      "text": "Cut a 2D Contour",
+      "level": 10
+    },
+    {
+      "text": "Check machine alignment",
+      "level": 10
+    },
+    {
+      "text": "Make something as a gift",
+      "level": 11
+    },
+    {
+      "text": "Machine a composite",
+      "level": 11
+    },
+    {
+      "text": "Use work stops for multiple parts",
+      "level": 11
+    },
+    {
+      "text": "Hit a tight tolerance",
+      "level": 12
+    },
+    {
+      "text": "Use a facemill",
+      "level": 12
+    },
+    {
+      "text": "Machine a pocket",
+      "level": 12
+    },
+    {
+      "text": "Tram or align your CNC machine",
+      "level": 12
+    },
+    {
+      "text": "Make multiple parts that fit together",
+      "level": 13
+    },
+    {
+      "text": "Machine steel",
+      "level": 13
+    },
+    {
+      "text": "Use a vice",
+      "level": 13
+    },
+    {
+      "text": "Accidentally misalign the second side of a job",
+      "level": 14
+    },
+    {
+      "text": "Use a fly cutter",
+      "level": 14
+    },
+    {
+      "text": "Use a finishing cycle",
+      "level": 14
+    },
+    {
+      "text": "Upgrade your CNC machine",
+      "level": 14
+    },
+    {
+      "text": "Sell something you’ve made",
+      "level": 15
+    },
+    {
+      "text": "Machine a used part",
+      "level": 15
+    },
+    {
+      "text": "Make soft jaws",
+      "level": 15
+    },
+    {
+      "text": "Fill an engraving with wax or resin",
+      "level": 16
+    },
+    {
+      "text": "Use a boring tool",
+      "level": 16
+    },
+    {
+      "text": "Engrave text",
+      "level": 16
+    },
+    {
+      "text": "Repair a CNC after a crash",
+      "level": 16
+    },
+    {
+      "text": "Teach a friend CNC skills",
+      "level": 17
+    },
+    {
+      "text": "Machine stainless steel",
+      "level": 17
+    },
+    {
+      "text": "Use a fixture plate",
+      "level": 17
+    },
+    {
+      "text": "Use a CNC Lathe",
+      "level": 18
+    },
+    {
+      "text": "Use a chamfer tool",
+      "level": 18
+    },
+    {
+      "text": "Cut a 3D contour",
+      "level": 18
+    },
+    {
+      "text": "Build your own CNC Machine",
+      "level": 18
+    },
+    {
+      "text": "Teach a CNC class",
+      "level": 19
+    },
+    {
+      "text": "Machine an unknown material",
+      "level": 19
+    },
+    {
+      "text": "Make a custom workholding jig",
+      "level": 19
+    },
+    {
+      "text": "Use heatshrink tooling",
+      "level": 20
+    },
+    {
+      "text": "Modify a postprocessor",
+      "level": 20
+    }
+  ]
+}
