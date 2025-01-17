@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - woodworking",
+  "Skills": [
+    {
+      "text": "Use sandpaper to sand something by hand",
+      "level": 1
+    },
+    {
+      "text": "Learn to use hand tools safely",
+      "level": 1
+    },
+    {
+      "text": "Get safety gear",
+      "level": 1
+    },
+    {
+      "text": "Learn to sharpen and maintain your tools",
+      "level": 2
+    },
+    {
+      "text": "Use a miter box to cut timber to size",
+      "level": 2
+    },
+    {
+      "text": "Learn measuring and marking techniques",
+      "level": 2
+    },
+    {
+      "text": "Use glue in a project",
+      "level": 2
+    },
+    {
+      "text": "Use a chisel in a project",
+      "level": 3
+    },
+    {
+      "text": "Finish a project with oil, lacquer or stain",
+      "level": 3
+    },
+    {
+      "text": "Learn to use a drill",
+      "level": 3
+    },
+    {
+      "text": "Use upcycled timber for a project",
+      "level": 4
+    },
+    {
+      "text": "Make a wooden miter box",
+      "level": 4
+    },
+    {
+      "text": "Learn to use a miter saw",
+      "level": 4
+    },
+    {
+      "text": "Upgrade or repair existing furniture",
+      "level": 4
+    },
+    {
+      "text": "Make something using dovetail joints",
+      "level": 5
+    },
+    {
+      "text": "Learn about the properties of different timbers",
+      "level": 5
+    },
+    {
+      "text": "Make a wood carving",
+      "level": 5
+    },
+    {
+      "text": "Use a hand plane and spokeshave",
+      "level": 6
+    },
+    {
+      "text": "Use a Dremel or other oscillating multitool",
+      "level": 6
+    },
+    {
+      "text": "Cut a lap joint",
+      "level": 6
+    },
+    {
+      "text": "Use an electric sander",
+      "level": 6
+    },
+    {
+      "text": "Create a small piece of furniture",
+      "level": 7
+    },
+    {
+      "text": "Make something for the kitchen",
+      "level": 7
+    },
+    {
+      "text": "Use a bandsaw or jigsaw in a project",
+      "level": 7
+    },
+    {
+      "text": "Use mortise- and-tenon joints",
+      "level": 8
+    },
+    {
+      "text": "Make a tool with woodworking",
+      "level": 8
+    },
+    {
+      "text": "Make your own woodworking jig",
+      "level": 8
+    },
+    {
+      "text": "Make a wooden mallet",
+      "level": 8
+    },
+    {
+      "text": "Use a pocket hole jig",
+      "level": 9
+    },
+    {
+      "text": "Use a hand held router plane",
+      "level": 9
+    },
+    {
+      "text": "Use only hand tools in a project",
+      "level": 9
+    },
+    {
+      "text": "Make something as a gift",
+      "level": 10
+    },
+    {
+      "text": "Learn to use a dowelling jig",
+      "level": 10
+    },
+    {
+      "text": "Learn to use a planer or thicknesser",
+      "level": 10
+    },
+    {
+      "text": "Use timber veneer in a project",
+      "level": 10
+    },
+    {
+      "text": "Make something for home",
+      "level": 11
+    },
+    {
+      "text": "Use a router for edge profiling",
+      "level": 11
+    },
+    {
+      "text": "Get something wrong and try again",
+      "level": 11
+    },
+    {
+      "text": "Learn to use a lathe",
+      "level": 12
+    },
+    {
+      "text": "Fix a machine or tool when it breaks",
+      "level": 12
+    },
+    {
+      "text": "Laminate different timbers together in a project",
+      "level": 12
+    },
+    {
+      "text": "Use wood burning in a project",
+      "level": 12
+    },
+    {
+      "text": "Use tongue and groove in a project",
+      "level": 13
+    },
+    {
+      "text": "Use a belt sander in a project",
+      "level": 13
+    },
+    {
+      "text": "Use resin in a project",
+      "level": 13
+    },
+    {
+      "text": "Create a new woodworking design on paper",
+      "level": 14
+    },
+    {
+      "text": "Make something to organise your tools",
+      "level": 14
+    },
+    {
+      "text": "Make a project using quality timber",
+      "level": 14
+    },
+    {
+      "text": "Visit your local woodworking club",
+      "level": 14
+    },
+    {
+      "text": "Make something without using screws or nails",
+      "level": 15
+    },
+    {
+      "text": "Use a table saw",
+      "level": 15
+    },
+    {
+      "text": "Use a multifunction vibrating cutter",
+      "level": 15
+    },
+    {
+      "text": "Build something you’ve designed",
+      "level": 16
+    },
+    {
+      "text": "Create a large piece of furniture",
+      "level": 16
+    },
+    {
+      "text": "Make a project with marquetry or parquetry",
+      "level": 16
+    },
+    {
+      "text": "Teach a friend a Woodworking skill",
+      "level": 16
+    },
+    {
+      "text": "Create a new woodworking design in software",
+      "level": 17
+    },
+    {
+      "text": "Make something on the lathe with resin",
+      "level": 17
+    },
+    {
+      "text": "Sell something you’ve made",
+      "level": 17
+    },
+    {
+      "text": "Make your own vice or clamp",
+      "level": 18
+    },
+    {
+      "text": "Learn to steam bend timber",
+      "level": 18
+    },
+    {
+      "text": "Fit drawers in a storage project",
+      "level": 18
+    },
+    {
+      "text": "Use a live edge in a project",
+      "level": 18
+    },
+    {
+      "text": "Mill and dry your own lumber from a tree",
+      "level": 19
+    },
+    {
+      "text": "Make a very large woodworking project",
+      "level": 19
+    },
+    {
+      "text": "Create furniture with hidden hardware",
+      "level": 19
+    },
+    {
+      "text": "Design something and publish instructions for others to use",
+      "level": 20
+    },
+    {
+      "text": "Teach a woodworking class",
+      "level": 20
+    }
+  ]
+}

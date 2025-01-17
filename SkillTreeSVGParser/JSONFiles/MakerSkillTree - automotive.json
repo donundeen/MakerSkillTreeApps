@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - automotive",
+  "Skills": [
+    {
+      "text": "Learn to read and refer to your user and repair manuals",
+      "level": 1
+    },
+    {
+      "text": "Learn to drive",
+      "level": 1
+    },
+    {
+      "text": "Wash a car",
+      "level": 1
+    },
+    {
+      "text": "Use a socket wrench",
+      "level": 2
+    },
+    {
+      "text": "Check air and Inflate a tire",
+      "level": 2
+    },
+    {
+      "text": "Change wiper blades",
+      "level": 2
+    },
+    {
+      "text": "Refill windscreen- wiper fluid",
+      "level": 2
+    },
+    {
+      "text": "Change or clean an air filter",
+      "level": 3
+    },
+    {
+      "text": "Check the oil level",
+      "level": 3
+    },
+    {
+      "text": "Jump start a vehicle or charge a battery",
+      "level": 3
+    },
+    {
+      "text": "Solder or crimp a wire",
+      "level": 4
+    },
+    {
+      "text": "Replace a fuse",
+      "level": 4
+    },
+    {
+      "text": "Wax or ceramic a car",
+      "level": 4
+    },
+    {
+      "text": "Replace a light globe",
+      "level": 4
+    },
+    {
+      "text": "Use a torque wrench",
+      "level": 5
+    },
+    {
+      "text": "Replace and program a battery",
+      "level": 5
+    },
+    {
+      "text": "Check radiator fluid level",
+      "level": 5
+    },
+    {
+      "text": "Install a radio",
+      "level": 6
+    },
+    {
+      "text": "Change a fuel filter",
+      "level": 6
+    },
+    {
+      "text": "Check brake, clutch and transmission fluid",
+      "level": 6
+    },
+    {
+      "text": "Change a flat tire",
+      "level": 6
+    },
+    {
+      "text": "Install speakers, sub and amplifier",
+      "level": 7
+    },
+    {
+      "text": "Change engine oil and filter",
+      "level": 7
+    },
+    {
+      "text": "Learn to drive with a trailer",
+      "level": 7
+    },
+    {
+      "text": "Sound deaden a door",
+      "level": 8
+    },
+    {
+      "text": "Mod a car",
+      "level": 8
+    },
+    {
+      "text": "Accidentally strip a screw or bolt",
+      "level": 8
+    },
+    {
+      "text": "Clean a throttle body",
+      "level": 8
+    },
+    {
+      "text": "Fix a dent",
+      "level": 9
+    },
+    {
+      "text": "Replace a serpentine belt",
+      "level": 9
+    },
+    {
+      "text": "Change a spark plug",
+      "level": 9
+    },
+    {
+      "text": "Install a reverse camera",
+      "level": 10
+    },
+    {
+      "text": "Make a gasket",
+      "level": 10
+    },
+    {
+      "text": "Work on a motorbike",
+      "level": 10
+    },
+    {
+      "text": "Work on a vintage car",
+      "level": 10
+    },
+    {
+      "text": "Use body filler",
+      "level": 11
+    },
+    {
+      "text": "Apply window tint",
+      "level": 11
+    },
+    {
+      "text": "Use an easy out or bolt extractor",
+      "level": 11
+    },
+    {
+      "text": "Paint a panel",
+      "level": 12
+    },
+    {
+      "text": "Change a tie rod",
+      "level": 12
+    },
+    {
+      "text": "Scan a car with an OBD Scanner",
+      "level": 12
+    },
+    {
+      "text": "Change a rocker cover gasket and PCV",
+      "level": 12
+    },
+    {
+      "text": "Bed in brakes",
+      "level": 13
+    },
+    {
+      "text": "Purchase a high quality tool set",
+      "level": 13
+    },
+    {
+      "text": "Repair a thread",
+      "level": 13
+    },
+    {
+      "text": "Change a shock absorber",
+      "level": 14
+    },
+    {
+      "text": "Replace brake rotors and pads",
+      "level": 14
+    },
+    {
+      "text": "Change diff fluid",
+      "level": 14
+    },
+    {
+      "text": "Install a catch can",
+      "level": 14
+    },
+    {
+      "text": "Teach a friend an automotive skill",
+      "level": 15
+    },
+    {
+      "text": "Bleed a brake system",
+      "level": 15
+    },
+    {
+      "text": "Replace a stater motor",
+      "level": 15
+    },
+    {
+      "text": "Replace a cam seal",
+      "level": 16
+    },
+    {
+      "text": "Replace a bush",
+      "level": 16
+    },
+    {
+      "text": "Drain, flush and bleed a cooling system",
+      "level": 16
+    },
+    {
+      "text": "Adjust a handbrake",
+      "level": 16
+    },
+    {
+      "text": "Replace a water pump",
+      "level": 17
+    },
+    {
+      "text": "Fluid exchange an automatic gearbox",
+      "level": 17
+    },
+    {
+      "text": "Change a drive shaft",
+      "level": 17
+    },
+    {
+      "text": "Replace a wheel bearing",
+      "level": 18
+    },
+    {
+      "text": "Change a solenoid in a gearbox",
+      "level": 18
+    },
+    {
+      "text": "Rebuild a dif",
+      "level": 18
+    },
+    {
+      "text": "Diagnose an electrical fault",
+      "level": 18
+    },
+    {
+      "text": "Replace a timing chain or belt",
+      "level": 19
+    },
+    {
+      "text": "Replace a clutch",
+      "level": 19
+    },
+    {
+      "text": "Remake or repair a wiring loom",
+      "level": 19
+    },
+    {
+      "text": "Pull an engine out",
+      "level": 20
+    },
+    {
+      "text": "Pull a transmission out",
+      "level": 20
+    }
+  ]
+}

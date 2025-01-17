@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - laser_cutting",
+  "Skills": [
+    {
+      "text": "Find a premade file online to use with your laser cutter",
+      "level": 1
+    },
+    {
+      "text": "Learn your laser-interface software",
+      "level": 1
+    },
+    {
+      "text": "Make sure safety equipment is in place for using your laser",
+      "level": 1
+    },
+    {
+      "text": "Learn which materials are unsafe to cut",
+      "level": 2
+    },
+    {
+      "text": "Upload a file to your laser- interface software and cut",
+      "level": 2
+    },
+    {
+      "text": "Learn about the dangers of unenclosed laser cutters",
+      "level": 2
+    },
+    {
+      "text": "Set up an exhaust or air-filtration system",
+      "level": 2
+    },
+    {
+      "text": "Find a pre- made file online to use with your laser cutter",
+      "level": 3
+    },
+    {
+      "text": "Customize a design using vector software",
+      "level": 3
+    },
+    {
+      "text": "Learn what kind of laser you are using",
+      "level": 3
+    },
+    {
+      "text": "Use cutting and engraving in the same project",
+      "level": 4
+    },
+    {
+      "text": "Calibrate a laser",
+      "level": 4
+    },
+    {
+      "text": "Prototype a project with cardboard",
+      "level": 4
+    },
+    {
+      "text": "Learn about the different types of laser cu\u001fers",
+      "level": 4
+    },
+    {
+      "text": "Get a design wrong and try again",
+      "level": 5
+    },
+    {
+      "text": "Cut something from timber",
+      "level": 5
+    },
+    {
+      "text": "Make something from multiple laser cut parts",
+      "level": 5
+    },
+    {
+      "text": "Make a simple design in vector software",
+      "level": 6
+    },
+    {
+      "text": "Use an auto- trace function to turn pixels into vectors",
+      "level": 6
+    },
+    {
+      "text": "Find perfect cut settings for a new material",
+      "level": 6
+    },
+    {
+      "text": "Use a material test file to test a new material",
+      "level": 6
+    },
+    {
+      "text": "Cut something from acrylic",
+      "level": 7
+    },
+    {
+      "text": "Make an organizer with laser cu\u001fing",
+      "level": 7
+    },
+    {
+      "text": "Buy something premade and laser etch it",
+      "level": 7
+    },
+    {
+      "text": "Reverse engineer something for a project",
+      "level": 8
+    },
+    {
+      "text": "Make a stencil",
+      "level": 8
+    },
+    {
+      "text": "Make a design using stacked materials",
+      "level": 8
+    },
+    {
+      "text": "Use a box generator and laser cut a box",
+      "level": 8
+    },
+    {
+      "text": "Make something from upcycled materials",
+      "level": 9
+    },
+    {
+      "text": "Find perfect image-/photo- engraving settings",
+      "level": 9
+    },
+    {
+      "text": "Mod your laser cu\u001fer (air assist, add camera, change firmware, etc)",
+      "level": 9
+    },
+    {
+      "text": "Have an idea and make it in less than one hr",
+      "level": 10
+    },
+    {
+      "text": "Use tabs to keep small pieces in a design in place",
+      "level": 10
+    },
+    {
+      "text": "Engrave ceramic, tile or stone",
+      "level": 10
+    },
+    {
+      "text": "Optimize a design for engraving",
+      "level": 10
+    },
+    {
+      "text": "Add electronics to a laser-cutting project",
+      "level": 11
+    },
+    {
+      "text": "Use a camera mounted to your laser to position your jobs",
+      "level": 11
+    },
+    {
+      "text": "Make something for a friend",
+      "level": 11
+    },
+    {
+      "text": "Teach a friend a laser-cutting skill",
+      "level": 12
+    },
+    {
+      "text": "Solve a real- life problem with laser cutting",
+      "level": 12
+    },
+    {
+      "text": "Do a marquetry project",
+      "level": 12
+    },
+    {
+      "text": "Use multiple passes to cut through a thick material",
+      "level": 12
+    },
+    {
+      "text": "Combine laser cutting and 3D printing in the same project",
+      "level": 13
+    },
+    {
+      "text": "Learn the kerf settings for your laser",
+      "level": 13
+    },
+    {
+      "text": "Fit something to a real-life object (use a photo or scan)",
+      "level": 13
+    },
+    {
+      "text": "Convert something from one vector format to another",
+      "level": 14
+    },
+    {
+      "text": "Fix a laser cutter when something goes wrong",
+      "level": 14
+    },
+    {
+      "text": "Make something with a few different materials",
+      "level": 14
+    },
+    {
+      "text": "Sell a laser cut project",
+      "level": 14
+    },
+    {
+      "text": "Add paint or color to a project",
+      "level": 15
+    },
+    {
+      "text": "Learn how to use Boolean tools effectively",
+      "level": 15
+    },
+    {
+      "text": "Nest parts for maximum material efficiency",
+      "level": 15
+    },
+    {
+      "text": "Combine laser cutting with hardware (bolts, hinges etc.)",
+      "level": 16
+    },
+    {
+      "text": "Make something from laser cut fabric / leather",
+      "level": 16
+    },
+    {
+      "text": "Make a custom workholding solution or jig",
+      "level": 16
+    },
+    {
+      "text": "Use a single- line font",
+      "level": 16
+    },
+    {
+      "text": "Create a complex design from scratch using vector software",
+      "level": 17
+    },
+    {
+      "text": "Use a 3D- design software to create a complex fitted part",
+      "level": 17
+    },
+    {
+      "text": "Engrave metal",
+      "level": 17
+    },
+    {
+      "text": "Use a 3D- engraving technique (e.g., depth map)",
+      "level": 18
+    },
+    {
+      "text": "Cut a nonstandard material (e.g., leather)",
+      "level": 18
+    },
+    {
+      "text": "Make a hard material bend with living hinges",
+      "level": 18
+    },
+    {
+      "text": "Optimize a repetitive job for speed",
+      "level": 18
+    },
+    {
+      "text": "Upload a design online",
+      "level": 19
+    },
+    {
+      "text": "Teach a workshop on laser cutting",
+      "level": 19
+    },
+    {
+      "text": "Use a Galvo/ Fiber laser Cutter",
+      "level": 19
+    },
+    {
+      "text": "Use a rotary laser to engrave a curved object",
+      "level": 20
+    },
+    {
+      "text": "Make a laser- cut project that’s bigger than yourself",
+      "level": 20
+    }
+  ]
+}

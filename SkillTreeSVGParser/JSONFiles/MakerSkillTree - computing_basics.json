@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - computing_basics",
+  "Skills": [
+    {
+      "text": "Get a computer",
+      "level": 1
+    },
+    {
+      "text": "Get a smart phone",
+      "level": 1
+    },
+    {
+      "text": "Set up internet",
+      "level": 1
+    },
+    {
+      "text": "Change your desktop wallpaper",
+      "level": 2
+    },
+    {
+      "text": "Set up an email",
+      "level": 2
+    },
+    {
+      "text": "Find something on google",
+      "level": 2
+    },
+    {
+      "text": "Stream a movie or tv show",
+      "level": 2
+    },
+    {
+      "text": "Learn to type on a keyboard",
+      "level": 3
+    },
+    {
+      "text": "Find news and weather online",
+      "level": 3
+    },
+    {
+      "text": "Google an error message",
+      "level": 3
+    },
+    {
+      "text": "Listen to digital radio",
+      "level": 4
+    },
+    {
+      "text": "Email photos or documents",
+      "level": 4
+    },
+    {
+      "text": "Send photos from your phone to your computer",
+      "level": 4
+    },
+    {
+      "text": "Set up an ergonomic workspace",
+      "level": 4
+    },
+    {
+      "text": "Pin your most- used programs to your taskbar",
+      "level": 5
+    },
+    {
+      "text": "Set up cloud storage",
+      "level": 5
+    },
+    {
+      "text": "Organize your files",
+      "level": 5
+    },
+    {
+      "text": "Set up a printer",
+      "level": 6
+    },
+    {
+      "text": "Set up a password manager",
+      "level": 6
+    },
+    {
+      "text": "Buy something online",
+      "level": 6
+    },
+    {
+      "text": "Spot a scam",
+      "level": 6
+    },
+    {
+      "text": "Scan a QR code",
+      "level": 7
+    },
+    {
+      "text": "Purchase and install new software",
+      "level": 7
+    },
+    {
+      "text": "Use internet banking",
+      "level": 7
+    },
+    {
+      "text": "Pay a bill online",
+      "level": 8
+    },
+    {
+      "text": "Make a social media account",
+      "level": 8
+    },
+    {
+      "text": "Get more than one screen",
+      "level": 8
+    },
+    {
+      "text": "Attend a workshop or read a book",
+      "level": 8
+    },
+    {
+      "text": "Listen to an audio book or read an e-book",
+      "level": 9
+    },
+    {
+      "text": "Take a selfie to use as a display picture",
+      "level": 9
+    },
+    {
+      "text": "Fix a problem yourself",
+      "level": 9
+    },
+    {
+      "text": "Send a meeting request via email",
+      "level": 10
+    },
+    {
+      "text": "Set up two- factor authentication or a passkey",
+      "level": 10
+    },
+    {
+      "text": "Mange your privacy settings on social media",
+      "level": 10
+    },
+    {
+      "text": "Video call with a friend",
+      "level": 10
+    },
+    {
+      "text": "Install a web browser extension",
+      "level": 11
+    },
+    {
+      "text": "Play an offline video game",
+      "level": 11
+    },
+    {
+      "text": "Set up an adblocker",
+      "level": 11
+    },
+    {
+      "text": "Recover something you deleted",
+      "level": 12
+    },
+    {
+      "text": "Order groceries for delivery online",
+      "level": 12
+    },
+    {
+      "text": "Make a spreadsheet",
+      "level": 12
+    },
+    {
+      "text": "Video call someone in a different timezone",
+      "level": 12
+    },
+    {
+      "text": "Upload a video online",
+      "level": 13
+    },
+    {
+      "text": "Play an online video game",
+      "level": 13
+    },
+    {
+      "text": "Use cable management at your workstation",
+      "level": 13
+    },
+    {
+      "text": "Learn how to spot misinformation and check sources",
+      "level": 14
+    },
+    {
+      "text": "Order a meal online",
+      "level": 14
+    },
+    {
+      "text": "Find a good tech support person",
+      "level": 14
+    },
+    {
+      "text": "Sell second hand items online",
+      "level": 14
+    },
+    {
+      "text": "Get a VPN",
+      "level": 15
+    },
+    {
+      "text": "Lodge taxes online",
+      "level": 15
+    },
+    {
+      "text": "Use AI to help you with a task",
+      "level": 15
+    },
+    {
+      "text": "Edit a photo",
+      "level": 16
+    },
+    {
+      "text": "Set up a blog",
+      "level": 16
+    },
+    {
+      "text": "Edit a PDF File",
+      "level": 16
+    },
+    {
+      "text": "Sign up for ‘Have I been pwnd?’",
+      "level": 16
+    },
+    {
+      "text": "Buy a domain name",
+      "level": 17
+    },
+    {
+      "text": "Teach a friend a computer skill",
+      "level": 17
+    },
+    {
+      "text": "Help someone fix a problem",
+      "level": 17
+    },
+    {
+      "text": "Set up a domain email address",
+      "level": 18
+    },
+    {
+      "text": "Research a computer build",
+      "level": 18
+    },
+    {
+      "text": "Install an operating system",
+      "level": 18
+    },
+    {
+      "text": "Try a different operating system",
+      "level": 18
+    },
+    {
+      "text": "Make a website",
+      "level": 19
+    },
+    {
+      "text": "Upgrade a computer with better parts",
+      "level": 19
+    },
+    {
+      "text": "Set up an online store",
+      "level": 19
+    },
+    {
+      "text": "Teach a class on computer skills",
+      "level": 20
+    },
+    {
+      "text": "Build a computer",
+      "level": 20
+    }
+  ]
+}

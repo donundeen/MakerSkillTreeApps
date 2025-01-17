@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - robotics",
+  "Skills": [
+    {
+      "text": "Learn about different kinds of motors",
+      "level": 1
+    },
+    {
+      "text": "Build a robot from a kit",
+      "level": 1
+    },
+    {
+      "text": "Make a cardboard automata",
+      "level": 1
+    },
+    {
+      "text": "Learn to solder and soldering safety",
+      "level": 2
+    },
+    {
+      "text": "Control a servo motor",
+      "level": 2
+    },
+    {
+      "text": "Blink a light with Arduino",
+      "level": 2
+    },
+    {
+      "text": "Use an ultrasonic sensor in a project",
+      "level": 2
+    },
+    {
+      "text": "Learn about PWM control",
+      "level": 3
+    },
+    {
+      "text": "Make a cardboard robot",
+      "level": 3
+    },
+    {
+      "text": "Use Raspberry Pi in a project",
+      "level": 3
+    },
+    {
+      "text": "Laser cut a robot part",
+      "level": 4
+    },
+    {
+      "text": "Build a robot with more than one motor",
+      "level": 4
+    },
+    {
+      "text": "Learn to use a multimeter",
+      "level": 4
+    },
+    {
+      "text": "Build a line- following robot",
+      "level": 4
+    },
+    {
+      "text": "Use an infrared sensor in a project",
+      "level": 5
+    },
+    {
+      "text": "Learn a CAD software",
+      "level": 5
+    },
+    {
+      "text": "Program a robot arm",
+      "level": 5
+    },
+    {
+      "text": "3D print a robot part",
+      "level": 6
+    },
+    {
+      "text": "Make a CAD model of a robot project",
+      "level": 6
+    },
+    {
+      "text": "Build a biped robot (e.g., Ottobot)",
+      "level": 6
+    },
+    {
+      "text": "Visit a robot restaurant",
+      "level": 6
+    },
+    {
+      "text": "Use a game controller in a project",
+      "level": 7
+    },
+    {
+      "text": "Use an IMU in a project",
+      "level": 7
+    },
+    {
+      "text": "Calibrate a robot build",
+      "level": 7
+    },
+    {
+      "text": "CNC a robot part",
+      "level": 8
+    },
+    {
+      "text": "Write software to run on a robot",
+      "level": 8
+    },
+    {
+      "text": "Build a fighting robot (e.g., Sumo or Battlebots)",
+      "level": 8
+    },
+    {
+      "text": "Teach a friend a robotics skill",
+      "level": 8
+    },
+    {
+      "text": "Build a companion robot",
+      "level": 9
+    },
+    {
+      "text": "Use a PID controller in a project",
+      "level": 9
+    },
+    {
+      "text": "Read a book or attend a workshop",
+      "level": 9
+    },
+    {
+      "text": "Send commands wirelessly",
+      "level": 10
+    },
+    {
+      "text": "Use OpenCV in a project",
+      "level": 10
+    },
+    {
+      "text": "Use upcycled e-waste in a project",
+      "level": 10
+    },
+    {
+      "text": "Build a floating robot",
+      "level": 10
+    },
+    {
+      "text": "Use pneumatics in a build",
+      "level": 11
+    },
+    {
+      "text": "Build a robot with wheels or tracks",
+      "level": 11
+    },
+    {
+      "text": "Rebuild a robot after it breaks",
+      "level": 11
+    },
+    {
+      "text": "Build a robot with a camera",
+      "level": 12
+    },
+    {
+      "text": "Use an LED matrix or screen in a robot",
+      "level": 12
+    },
+    {
+      "text": "Contribute to an open source robotics project",
+      "level": 12
+    },
+    {
+      "text": "Make mods to an off-the-shelf robot or part",
+      "level": 12
+    },
+    {
+      "text": "Make a robot dance",
+      "level": 13
+    },
+    {
+      "text": "Program a robot with the Robot Operating System",
+      "level": 13
+    },
+    {
+      "text": "Build a racing robot (e.g., Donkey Car)",
+      "level": 13
+    },
+    {
+      "text": "Simulate your robot in software (e.g., Gazebo or V-REP)",
+      "level": 14
+    },
+    {
+      "text": "Build an autonomous robot",
+      "level": 14
+    },
+    {
+      "text": "Build a drone",
+      "level": 14
+    },
+    {
+      "text": "Join a robotics club or group",
+      "level": 14
+    },
+    {
+      "text": "Use kinematics in a project",
+      "level": 15
+    },
+    {
+      "text": "Build a large open source robot (e.g., InMoov)",
+      "level": 15
+    },
+    {
+      "text": "Build a drawing machine or art robot",
+      "level": 15
+    },
+    {
+      "text": "Build a pick and place robot (e.g., LumenPnP)",
+      "level": 16
+    },
+    {
+      "text": "Build a robot with LiDAR",
+      "level": 16
+    },
+    {
+      "text": "Solve a problem with a robot build",
+      "level": 16
+    },
+    {
+      "text": "Make a robot that can balance",
+      "level": 16
+    },
+    {
+      "text": "Build a battle- bot in a team",
+      "level": 17
+    },
+    {
+      "text": "Make a robot with metal parts",
+      "level": 17
+    },
+    {
+      "text": "Design a custom PCB for a robot",
+      "level": 17
+    },
+    {
+      "text": "Use machine learning in a project",
+      "level": 18
+    },
+    {
+      "text": "Use soft robotics in a design",
+      "level": 18
+    },
+    {
+      "text": "Build a robot that can recognize voice or gesture",
+      "level": 18
+    },
+    {
+      "text": "Make a waterproof robot",
+      "level": 18
+    },
+    {
+      "text": "Build robots that can work together",
+      "level": 19
+    },
+    {
+      "text": "Make a tutorial on a robot project",
+      "level": 19
+    },
+    {
+      "text": "Integrate AI in a robot build",
+      "level": 19
+    },
+    {
+      "text": "Teach a class on robotics",
+      "level": 20
+    },
+    {
+      "text": "Participate in a robotics competition",
+      "level": 20
+    }
+  ]
+}

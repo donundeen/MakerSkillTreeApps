@@ -1,0 +1,277 @@
+{
+  "Title": "Climbing Skill Tree",
+  "Skills": [
+    {
+      "text": "Cover yourself in chalk",
+      "level": 1
+    },
+    {
+      "text": "Visit a climbing gym",
+      "level": 1
+    },
+    {
+      "text": "Give someone a first bump",
+      "level": 1
+    },
+    {
+      "text": "Hang for one minute",
+      "level": 2
+    },
+    {
+      "text": "Use a toe hook",
+      "level": 2
+    },
+    {
+      "text": "Trim your nails",
+      "level": 2
+    },
+    {
+      "text": "Squeeze your feet into small shoes",
+      "level": 2
+    },
+    {
+      "text": "Fall off a climb",
+      "level": 3
+    },
+    {
+      "text": "Reach the top of a climbing wall",
+      "level": 3
+    },
+    {
+      "text": "Ask someone for beta",
+      "level": 3
+    },
+    {
+      "text": "Use a foot flag",
+      "level": 4
+    },
+    {
+      "text": "Move your hips to reach the next hold",
+      "level": 4
+    },
+    {
+      "text": "Tape your fingers",
+      "level": 4
+    },
+    {
+      "text": "Rest and shake out to recover",
+      "level": 4
+    },
+    {
+      "text": "Match a hold",
+      "level": 5
+    },
+    {
+      "text": "Hug the wall",
+      "level": 5
+    },
+    {
+      "text": "Climb until you are pumped",
+      "level": 5
+    },
+    {
+      "text": "Smear your foot on the wall",
+      "level": 6
+    },
+    {
+      "text": "Pull yourself up on a jug",
+      "level": 6
+    },
+    {
+      "text": "Belay a climber on top rope",
+      "level": 6
+    },
+    {
+      "text": "Flash a climb",
+      "level": 6
+    },
+    {
+      "text": "Top out a climb",
+      "level": 7
+    },
+    {
+      "text": "Slab, only use your feet for 90% of a climb",
+      "level": 7
+    },
+    {
+      "text": "Use a heal hook",
+      "level": 7
+    },
+    {
+      "text": "Translate a bouldering grade into the French system",
+      "level": 8
+    },
+    {
+      "text": "Tie a figure-eight knot for your harness",
+      "level": 8
+    },
+    {
+      "text": "Do a dyno",
+      "level": 8
+    },
+    {
+      "text": "Train on a campus board",
+      "level": 8
+    },
+    {
+      "text": "Pull on an under cling",
+      "level": 9
+    },
+    {
+      "text": "Complete a traverse",
+      "level": 9
+    },
+    {
+      "text": "Brush a hold",
+      "level": 9
+    },
+    {
+      "text": "Acquire and apply your first climbing sticker",
+      "level": 10
+    },
+    {
+      "text": "Balance on one foot",
+      "level": 10
+    },
+    {
+      "text": "Start a project",
+      "level": 10
+    },
+    {
+      "text": "Touch your toes without bending your knees",
+      "level": 10
+    },
+    {
+      "text": "Share some beta",
+      "level": 11
+    },
+    {
+      "text": "Find a pocket",
+      "level": 11
+    },
+    {
+      "text": "Scrub your feet",
+      "level": 11
+    },
+    {
+      "text": "Make a friend while climbing",
+      "level": 12
+    },
+    {
+      "text": "Identify a crux",
+      "level": 12
+    },
+    {
+      "text": "Use a sloper",
+      "level": 12
+    },
+    {
+      "text": "Squeeze a pinch hold to progress",
+      "level": 12
+    },
+    {
+      "text": "Participate a climbing competition",
+      "level": 13
+    },
+    {
+      "text": "Top rope a climb",
+      "level": 13
+    },
+    {
+      "text": "Hangdog on a route",
+      "level": 13
+    },
+    {
+      "text": "Pull on a crimp",
+      "level": 14
+    },
+    {
+      "text": "Red point a climb",
+      "level": 14
+    },
+    {
+      "text": "Onsight a climb",
+      "level": 14
+    },
+    {
+      "text": "Flake some rope",
+      "level": 14
+    },
+    {
+      "text": "Pinkpoint a climb",
+      "level": 15
+    },
+    {
+      "text": "Overcome a crux",
+      "level": 15
+    },
+    {
+      "text": "Resole some climbing shoes",
+      "level": 15
+    },
+    {
+      "text": "Mantle onto a ledge",
+      "level": 16
+    },
+    {
+      "text": "Lead belay",
+      "level": 16
+    },
+    {
+      "text": "Use a hand jam",
+      "level": 16
+    },
+    {
+      "text": "Use a double loop figure eight",
+      "level": 16
+    },
+    {
+      "text": "Hang like a bat",
+      "level": 17
+    },
+    {
+      "text": "Rappel from an Anchor",
+      "level": 17
+    },
+    {
+      "text": "Lead a route",
+      "level": 17
+    },
+    {
+      "text": "Climb on an overhang",
+      "level": 18
+    },
+    {
+      "text": "Hold your body with just one arm",
+      "level": 18
+    },
+    {
+      "text": "Build an anchor",
+      "level": 18
+    },
+    {
+      "text": "Climb a multi-pitch",
+      "level": 18
+    },
+    {
+      "text": "Campus to the top",
+      "level": 19
+    },
+    {
+      "text": "Complete a pistol squat",
+      "level": 19
+    },
+    {
+      "text": "Take a whip",
+      "level": 19
+    },
+    {
+      "text": "Dyno to a sloper",
+      "level": 20
+    },
+    {
+      "text": "Place a cam",
+      "level": 20
+    }
+  ]
+}

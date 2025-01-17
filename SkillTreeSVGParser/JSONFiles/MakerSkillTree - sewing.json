@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - sewing",
+  "Skills": [
+    {
+      "text": "Learn sewing machine basics and safety",
+      "level": 1
+    },
+    {
+      "text": "Hand sew on a button",
+      "level": 1
+    },
+    {
+      "text": "Use a zigzag stitch on a sewing machine",
+      "level": 1
+    },
+    {
+      "text": "Learn to cut fabric with a rotary cutter",
+      "level": 2
+    },
+    {
+      "text": "Wind your own thread into a bobbin",
+      "level": 2
+    },
+    {
+      "text": "Use different types of hand stitching",
+      "level": 2
+    },
+    {
+      "text": "Print or trace a sewing pattern",
+      "level": 2
+    },
+    {
+      "text": "Sew a bu\u001donhole",
+      "level": 3
+    },
+    {
+      "text": "Sew a bag",
+      "level": 3
+    },
+    {
+      "text": "Sew something for the home",
+      "level": 3
+    },
+    {
+      "text": "Hand piece a quilting block",
+      "level": 4
+    },
+    {
+      "text": "Change a needle on a sewing machine",
+      "level": 4
+    },
+    {
+      "text": "Mend something with sewing skills",
+      "level": 4
+    },
+    {
+      "text": "Visit your local fabric shop",
+      "level": 4
+    },
+    {
+      "text": "Unpick something that’s not right",
+      "level": 5
+    },
+    {
+      "text": "Baste a seam before sewing it",
+      "level": 5
+    },
+    {
+      "text": "Transfer markings from pattern to fabric",
+      "level": 5
+    },
+    {
+      "text": "Machine sew a patchwork block",
+      "level": 6
+    },
+    {
+      "text": "Use appliqué in a project",
+      "level": 6
+    },
+    {
+      "text": "Use a sewing pattern",
+      "level": 6
+    },
+    {
+      "text": "Learn to use a mannequin",
+      "level": 6
+    },
+    {
+      "text": "Sew a dart",
+      "level": 7
+    },
+    {
+      "text": "Alter clothing to fit (e.g., take up a pair of long pants)",
+      "level": 7
+    },
+    {
+      "text": "Sew with lightweight fabric",
+      "level": 7
+    },
+    {
+      "text": "Finish a quilt top",
+      "level": 8
+    },
+    {
+      "text": "Learn how to select the correct needle for fabric used",
+      "level": 8
+    },
+    {
+      "text": "Use a tailor’s clapper with a steam iron",
+      "level": 8
+    },
+    {
+      "text": "Sew something with a woven fabric",
+      "level": 8
+    },
+    {
+      "text": "Use custom labels/tags for a project",
+      "level": 9
+    },
+    {
+      "text": "Sew an upcycled project",
+      "level": 9
+    },
+    {
+      "text": "Sew a fabric with a directional print",
+      "level": 9
+    },
+    {
+      "text": "Combine quilt top, batting and back together",
+      "level": 10
+    },
+    {
+      "text": "Sew a curved seam",
+      "level": 10
+    },
+    {
+      "text": "Sew a gift for someone",
+      "level": 10
+    },
+    {
+      "text": "Sew something with knit fabric",
+      "level": 10
+    },
+    {
+      "text": "Sew a pleat",
+      "level": 11
+    },
+    {
+      "text": "Teach a friend a sewing skill",
+      "level": 11
+    },
+    {
+      "text": "Use velcro in a project",
+      "level": 11
+    },
+    {
+      "text": "Machine quilt layers together",
+      "level": 12
+    },
+    {
+      "text": "Sew your first garment piece",
+      "level": 12
+    },
+    {
+      "text": "Sew a button with a sewing machine",
+      "level": 12
+    },
+    {
+      "text": "Learn how to do a blind hem",
+      "level": 12
+    },
+    {
+      "text": "Sew a collar",
+      "level": 13
+    },
+    {
+      "text": "Sew a pocket",
+      "level": 13
+    },
+    {
+      "text": "Use hardware such as buckles and fasteners in a project",
+      "level": 13
+    },
+    {
+      "text": "Finish a quilting project",
+      "level": 14
+    },
+    {
+      "text": "Cut and sew a facing",
+      "level": 14
+    },
+    {
+      "text": "Use snap fasteners in a project",
+      "level": 14
+    },
+    {
+      "text": "Use interfacing in a project",
+      "level": 14
+    },
+    {
+      "text": "Make bias binding",
+      "level": 15
+    },
+    {
+      "text": "Learn how to gather",
+      "level": 15
+    },
+    {
+      "text": "Sew something in heavy weight fabric",
+      "level": 15
+    },
+    {
+      "text": "Sew an improv quilt",
+      "level": 16
+    },
+    {
+      "text": "Sew a French seam",
+      "level": 16
+    },
+    {
+      "text": "Sew a mitered corner",
+      "level": 16
+    },
+    {
+      "text": "Sew a set-in sleeve",
+      "level": 16
+    },
+    {
+      "text": "Combine sewing with electronics in an e-textiles project",
+      "level": 17
+    },
+    {
+      "text": "Sew something with a zipper",
+      "level": 17
+    },
+    {
+      "text": "Sew something in silk fabric",
+      "level": 17
+    },
+    {
+      "text": "Use a long- arm free-motion quilting machine",
+      "level": 18
+    },
+    {
+      "text": "Use machine embroidery",
+      "level": 18
+    },
+    {
+      "text": "Share your sewing projects online",
+      "level": 18
+    },
+    {
+      "text": "Use an overlocker/serger",
+      "level": 18
+    },
+    {
+      "text": "Write a set of instructions for a sewing project and upload it",
+      "level": 19
+    },
+    {
+      "text": "Make a custom design with machine embroidery",
+      "level": 19
+    },
+    {
+      "text": "Adjust a patttern to suit",
+      "level": 19
+    },
+    {
+      "text": "Teach a sewing class",
+      "level": 20
+    },
+    {
+      "text": "Draft your own sewing pattern",
+      "level": 20
+    }
+  ]
+}

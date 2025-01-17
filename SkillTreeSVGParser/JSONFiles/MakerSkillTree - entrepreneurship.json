@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - entrepreneurship",
+  "Skills": [
+    {
+      "text": "Fill out a lean canvas",
+      "level": 1
+    },
+    {
+      "text": "Have a business idea",
+      "level": 1
+    },
+    {
+      "text": "Learn lean startup methodology",
+      "level": 1
+    },
+    {
+      "text": "Create a Minimum Viable Product (MVP)",
+      "level": 2
+    },
+    {
+      "text": "Do customer validation",
+      "level": 2
+    },
+    {
+      "text": "Make a business name",
+      "level": 2
+    },
+    {
+      "text": "Reflective journal your why, strengths and weaknesses",
+      "level": 2
+    },
+    {
+      "text": "Create a logo",
+      "level": 3
+    },
+    {
+      "text": "Research business competition",
+      "level": 3
+    },
+    {
+      "text": "Conduct market research",
+      "level": 3
+    },
+    {
+      "text": "Participate in a startup program",
+      "level": 4
+    },
+    {
+      "text": "Analyze your target market",
+      "level": 4
+    },
+    {
+      "text": "Ask an expert for advice",
+      "level": 4
+    },
+    {
+      "text": "Create an elevator pitch",
+      "level": 4
+    },
+    {
+      "text": "Fill out a value- proposition canvas",
+      "level": 5
+    },
+    {
+      "text": "Create a style guide for your branding",
+      "level": 5
+    },
+    {
+      "text": "Set a vision, a mission and values for your business",
+      "level": 5
+    },
+    {
+      "text": "Profile your average customer and find their pain points",
+      "level": 6
+    },
+    {
+      "text": "Make a social media account for your business",
+      "level": 6
+    },
+    {
+      "text": "Analyze your market size",
+      "level": 6
+    },
+    {
+      "text": "Visit a co- working space",
+      "level": 6
+    },
+    {
+      "text": "Sell a physical product",
+      "level": 7
+    },
+    {
+      "text": "Sell your first service",
+      "level": 7
+    },
+    {
+      "text": "Go to a networking event",
+      "level": 7
+    },
+    {
+      "text": "Get great business reviews online",
+      "level": 8
+    },
+    {
+      "text": "Create an online store",
+      "level": 8
+    },
+    {
+      "text": "Pivot your business idea",
+      "level": 8
+    },
+    {
+      "text": "Find a business partner or friends to help",
+      "level": 8
+    },
+    {
+      "text": "Import something to sell",
+      "level": 9
+    },
+    {
+      "text": "Get feedback and improve your product or service",
+      "level": 9
+    },
+    {
+      "text": "Understand different business structures",
+      "level": 9
+    },
+    {
+      "text": "Pay a freelancer to help with your business (e.g., Fiverr, Upwork)",
+      "level": 10
+    },
+    {
+      "text": "Open a business bank account",
+      "level": 10
+    },
+    {
+      "text": "Create a business website and email",
+      "level": 10
+    },
+    {
+      "text": "Teach a friend a business skill",
+      "level": 10
+    },
+    {
+      "text": "Get accounting software",
+      "level": 11
+    },
+    {
+      "text": "Help a friend with a business",
+      "level": 11
+    },
+    {
+      "text": "Sell a digital product",
+      "level": 11
+    },
+    {
+      "text": "Find a mentor",
+      "level": 12
+    },
+    {
+      "text": "Use an SEO research tool (e.g., Erank, Sale Samurai)",
+      "level": 12
+    },
+    {
+      "text": "Advertise your business",
+      "level": 12
+    },
+    {
+      "text": "Send an invoice",
+      "level": 12
+    },
+    {
+      "text": "Sell something via preorder",
+      "level": 13
+    },
+    {
+      "text": "Sell something to someone overseas",
+      "level": 13
+    },
+    {
+      "text": "Create a budget projection",
+      "level": 13
+    },
+    {
+      "text": "Launch a business without spending any money",
+      "level": 14
+    },
+    {
+      "text": "Get 1,000 followers on your business social media",
+      "level": 14
+    },
+    {
+      "text": "Create a video on your product or service",
+      "level": 14
+    },
+    {
+      "text": "Find ways to minimize your business environmental impact",
+      "level": 14
+    },
+    {
+      "text": "Get investment or grant money",
+      "level": 15
+    },
+    {
+      "text": "Do social good with your business",
+      "level": 15
+    },
+    {
+      "text": "Pitch your idea at a competition",
+      "level": 15
+    },
+    {
+      "text": "Run a startup event",
+      "level": 16
+    },
+    {
+      "text": "Lodge a business tax return",
+      "level": 16
+    },
+    {
+      "text": "Scale your business",
+      "level": 16
+    },
+    {
+      "text": "Have a physical shopfront or market stall",
+      "level": 16
+    },
+    {
+      "text": "Crowdfund a product",
+      "level": 17
+    },
+    {
+      "text": "Diversify your income with multiple streams",
+      "level": 17
+    },
+    {
+      "text": "Create resources to help others succeed",
+      "level": 17
+    },
+    {
+      "text": "Travel for business",
+      "level": 18
+    },
+    {
+      "text": "Open-source an idea",
+      "level": 18
+    },
+    {
+      "text": "Get professional photos taken for your business",
+      "level": 18
+    },
+    {
+      "text": "Create a passive income channel",
+      "level": 18
+    },
+    {
+      "text": "Work and travel as a digital nomad",
+      "level": 19
+    },
+    {
+      "text": "Sell your business",
+      "level": 19
+    },
+    {
+      "text": "Become a mentor",
+      "level": 19
+    },
+    {
+      "text": "Teach an entrepreneurship class",
+      "level": 20
+    },
+    {
+      "text": "Achieve your original business goal",
+      "level": 20
+    }
+  ]
+}

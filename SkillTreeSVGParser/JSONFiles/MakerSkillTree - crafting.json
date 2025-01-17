@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - crafting",
+  "Skills": [
+    {
+      "text": "Make something with origami",
+      "level": 1
+    },
+    {
+      "text": "Assemble a craft project kit",
+      "level": 1
+    },
+    {
+      "text": "Make a greeting card",
+      "level": 1
+    },
+    {
+      "text": "Learn to use cutting tools safely",
+      "level": 2
+    },
+    {
+      "text": "Make something with paper craft",
+      "level": 2
+    },
+    {
+      "text": "Make something using a jar",
+      "level": 2
+    },
+    {
+      "text": "Use paper cutting in a project",
+      "level": 2
+    },
+    {
+      "text": "Make a paper collage",
+      "level": 3
+    },
+    {
+      "text": "Make something with buttons",
+      "level": 3
+    },
+    {
+      "text": "Use googly eyes in a project",
+      "level": 3
+    },
+    {
+      "text": "Make something with pipe cleaners",
+      "level": 4
+    },
+    {
+      "text": "Make a pom pom",
+      "level": 4
+    },
+    {
+      "text": "Make something for the home",
+      "level": 4
+    },
+    {
+      "text": "Make something from clay",
+      "level": 4
+    },
+    {
+      "text": "Try scrapbooking",
+      "level": 5
+    },
+    {
+      "text": "Make something with tissue paper",
+      "level": 5
+    },
+    {
+      "text": "Use paper for a layered effect",
+      "level": 5
+    },
+    {
+      "text": "Use a hot glue gun",
+      "level": 6
+    },
+    {
+      "text": "Do a jewelry project",
+      "level": 6
+    },
+    {
+      "text": "Make something with paper quilling",
+      "level": 6
+    },
+    {
+      "text": "Teach a friend a craft skill",
+      "level": 6
+    },
+    {
+      "text": "Make your own stamp",
+      "level": 7
+    },
+    {
+      "text": "Use chalk or pastels in a project",
+      "level": 7
+    },
+    {
+      "text": "Make something festive",
+      "level": 7
+    },
+    {
+      "text": "Make a hanging project",
+      "level": 8
+    },
+    {
+      "text": "Make something with macrame",
+      "level": 8
+    },
+    {
+      "text": "Use calligraphy in a project",
+      "level": 8
+    },
+    {
+      "text": "Paint a rock or something from nature",
+      "level": 8
+    },
+    {
+      "text": "Try a craft from a different culture",
+      "level": 9
+    },
+    {
+      "text": "Make something with felt",
+      "level": 9
+    },
+    {
+      "text": "Use water color pencils or paints",
+      "level": 9
+    },
+    {
+      "text": "Make a gift for a friend",
+      "level": 10
+    },
+    {
+      "text": "Do a cross stitch or hand embroidery project",
+      "level": 10
+    },
+    {
+      "text": "Make your own upcycled paper",
+      "level": 10
+    },
+    {
+      "text": "Make a project with knitting or crochet",
+      "level": 10
+    },
+    {
+      "text": "Do an upcycling project",
+      "level": 11
+    },
+    {
+      "text": "Do a botanical press project",
+      "level": 11
+    },
+    {
+      "text": "Learn to use a sewing machine",
+      "level": 11
+    },
+    {
+      "text": "Tie dye fabric",
+      "level": 12
+    },
+    {
+      "text": "Use the visible mending technique to repair clothing",
+      "level": 12
+    },
+    {
+      "text": "Make a badge with a badgemaker",
+      "level": 12
+    },
+    {
+      "text": "Finish a knitting or crochet project",
+      "level": 12
+    },
+    {
+      "text": "Use a vinyl cutter in a project",
+      "level": 13
+    },
+    {
+      "text": "Make something with beading",
+      "level": 13
+    },
+    {
+      "text": "Make and bind a book",
+      "level": 13
+    },
+    {
+      "text": "Use 3D printing in a project",
+      "level": 14
+    },
+    {
+      "text": "Do a tufting or punch-needle project",
+      "level": 14
+    },
+    {
+      "text": "Do a collaborative craft project",
+      "level": 14
+    },
+    {
+      "text": "Make something large with cardboard",
+      "level": 14
+    },
+    {
+      "text": "Use laser cutting in a project",
+      "level": 15
+    },
+    {
+      "text": "Make something you can wear",
+      "level": 15
+    },
+    {
+      "text": "Sew something practical",
+      "level": 15
+    },
+    {
+      "text": "Make something with plaster or concrete",
+      "level": 16
+    },
+    {
+      "text": "Make a practical ceramic project",
+      "level": 16
+    },
+    {
+      "text": "Use resin in a project",
+      "level": 16
+    },
+    {
+      "text": "Make a mosaic or stained glass project",
+      "level": 16
+    },
+    {
+      "text": "Paint a miniature",
+      "level": 17
+    },
+    {
+      "text": "Do a cosplay project",
+      "level": 17
+    },
+    {
+      "text": "Make a craft project tutorial",
+      "level": 17
+    },
+    {
+      "text": "Make a candle or soap",
+      "level": 18
+    },
+    {
+      "text": "Make something with weaving",
+      "level": 18
+    },
+    {
+      "text": "Design your own embroidery pattern",
+      "level": 18
+    },
+    {
+      "text": "Design your own knitting or crochet pattern",
+      "level": 18
+    },
+    {
+      "text": "Make a plush toy",
+      "level": 19
+    },
+    {
+      "text": "Craft something including electronics",
+      "level": 19
+    },
+    {
+      "text": "Make something to organize crafting supplies",
+      "level": 19
+    },
+    {
+      "text": "Teach a crafting class",
+      "level": 20
+    },
+    {
+      "text": "Sell something you’ve made",
+      "level": 20
+    }
+  ]
+}

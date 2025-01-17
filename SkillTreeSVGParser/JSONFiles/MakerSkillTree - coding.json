@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - coding",
+  "Skills": [
+    {
+      "text": "Use block based coding",
+      "level": 1
+    },
+    {
+      "text": "Write a “Hello World” program",
+      "level": 1
+    },
+    {
+      "text": "Learn core syntax for a language",
+      "level": 1
+    },
+    {
+      "text": "Learn HTML basics",
+      "level": 2
+    },
+    {
+      "text": "Split your code into multiple files",
+      "level": 2
+    },
+    {
+      "text": "Use the command line",
+      "level": 2
+    },
+    {
+      "text": "Write something in a Markup language",
+      "level": 2
+    },
+    {
+      "text": "Find a bug and fix it",
+      "level": 3
+    },
+    {
+      "text": "Use node based coding",
+      "level": 3
+    },
+    {
+      "text": "Adjust example code for a project",
+      "level": 3
+    },
+    {
+      "text": "Reassign a value to a variable",
+      "level": 4
+    },
+    {
+      "text": "Iterate over a list/array with a loop",
+      "level": 4
+    },
+    {
+      "text": "Download a code library",
+      "level": 4
+    },
+    {
+      "text": "Complete a learn-to-code class or book",
+      "level": 4
+    },
+    {
+      "text": "Look up an error message on stack overflow",
+      "level": 5
+    },
+    {
+      "text": "Write a function",
+      "level": 5
+    },
+    {
+      "text": "Explain your code with comments",
+      "level": 5
+    },
+    {
+      "text": "Generate art with a code",
+      "level": 6
+    },
+    {
+      "text": "Use a keyboard shortcut to save your code",
+      "level": 6
+    },
+    {
+      "text": "Use a debugger",
+      "level": 6
+    },
+    {
+      "text": "Use a set instead of a list",
+      "level": 6
+    },
+    {
+      "text": "Use a keyboard shortcut to run your program",
+      "level": 7
+    },
+    {
+      "text": "Create a CLI tool with parameters",
+      "level": 7
+    },
+    {
+      "text": "Use an API in a project",
+      "level": 7
+    },
+    {
+      "text": "Optimize the memory footprint of a program",
+      "level": 8
+    },
+    {
+      "text": "Spend a long time trying to find a trivial bug",
+      "level": 8
+    },
+    {
+      "text": "Use a Git repository to share code",
+      "level": 8
+    },
+    {
+      "text": "Use a logical shorcut in a condition",
+      "level": 8
+    },
+    {
+      "text": "Use a linter",
+      "level": 9
+    },
+    {
+      "text": "Convert code from floating-point math to integer/fixed- point math",
+      "level": 9
+    },
+    {
+      "text": "Get confused reading your own code",
+      "level": 9
+    },
+    {
+      "text": "Run into circular dependency with your files",
+      "level": 10
+    },
+    {
+      "text": "Document your program",
+      "level": 10
+    },
+    {
+      "text": "Implement a sort algorithm",
+      "level": 10
+    },
+    {
+      "text": "Write a quick sort algorithm",
+      "level": 10
+    },
+    {
+      "text": "Use version control",
+      "level": 11
+    },
+    {
+      "text": "Write a web application",
+      "level": 11
+    },
+    {
+      "text": "Use a design pattern (e.g. Gang of Four)",
+      "level": 11
+    },
+    {
+      "text": "Write a Linux Hello World program using GTK+",
+      "level": 12
+    },
+    {
+      "text": "Write a MacOS Hello World program",
+      "level": 12
+    },
+    {
+      "text": "Write a Windows Hello World program",
+      "level": 12
+    },
+    {
+      "text": "Use a second programming language in the same project",
+      "level": 12
+    },
+    {
+      "text": "Write an Android Hello World program",
+      "level": 13
+    },
+    {
+      "text": "Write an iOS Hello World program",
+      "level": 13
+    },
+    {
+      "text": "Participate in a Hackathon",
+      "level": 13
+    },
+    {
+      "text": "Write a TCP/IP server",
+      "level": 14
+    },
+    {
+      "text": "Use a tree data structure",
+      "level": 14
+    },
+    {
+      "text": "Write object oriented code",
+      "level": 14
+    },
+    {
+      "text": "Use recursion",
+      "level": 14
+    },
+    {
+      "text": "Use a graph data structure",
+      "level": 15
+    },
+    {
+      "text": "Teach a friend a coding skill",
+      "level": 15
+    },
+    {
+      "text": "Test and improve your code",
+      "level": 15
+    },
+    {
+      "text": "Collaborate on a project with others",
+      "level": 16
+    },
+    {
+      "text": "Earn money from coding",
+      "level": 16
+    },
+    {
+      "text": "Write functional code",
+      "level": 16
+    },
+    {
+      "text": "Write detailed documentation for your coding project",
+      "level": 16
+    },
+    {
+      "text": "Learn about project management styles (e.g. waterfall vs. agile)",
+      "level": 17
+    },
+    {
+      "text": "Use bitwise operators for speed improvements",
+      "level": 17
+    },
+    {
+      "text": "Make a recursive function nonrecursive",
+      "level": 17
+    },
+    {
+      "text": "Write a streaming program using UDP and a custom protocol",
+      "level": 18
+    },
+    {
+      "text": "Write a concurrent program using thread synchronization",
+      "level": 18
+    },
+    {
+      "text": "Use a performance profiler to identify and fix hot spots",
+      "level": 18
+    },
+    {
+      "text": "Fix a race condition",
+      "level": 18
+    },
+    {
+      "text": "Participate in an open source project",
+      "level": 19
+    },
+    {
+      "text": "Write a program to accept commands over a UART from a serial terminal",
+      "level": 19
+    },
+    {
+      "text": "Learn multithreading",
+      "level": 19
+    },
+    {
+      "text": "Learn three or more coding languages",
+      "level": 20
+    },
+    {
+      "text": "Teach a class on coding skills",
+      "level": 20
+    }
+  ]
+}

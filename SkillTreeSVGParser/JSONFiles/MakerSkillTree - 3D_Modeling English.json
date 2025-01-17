@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - 3D_Modeling English",
+  "Skills": [
+    {
+      "text": "Learn to navigate a 3D interface with pan, orbit and zoom",
+      "level": 1
+    },
+    {
+      "text": "Choose a 3D software and install",
+      "level": 1
+    },
+    {
+      "text": "Know how to check size in 3D software",
+      "level": 1
+    },
+    {
+      "text": "Draw a detailed sketch with dimensions before 3D modeling",
+      "level": 2
+    },
+    {
+      "text": "Create a model in MeshMixer or TinkerCAD",
+      "level": 2
+    },
+    {
+      "text": "Learn about different 3D model file types",
+      "level": 2
+    },
+    {
+      "text": "Apply a material type to a 3D model",
+      "level": 2
+    },
+    {
+      "text": "Use the extrude tool in 3D software",
+      "level": 3
+    },
+    {
+      "text": "Assemble a 3D model with free assets",
+      "level": 3
+    },
+    {
+      "text": "Make a low- poly model",
+      "level": 3
+    },
+    {
+      "text": "Use the revolve tool in 3D software",
+      "level": 4
+    },
+    {
+      "text": "Export a 3D model when complete",
+      "level": 4
+    },
+    {
+      "text": "Create a 3 point light setup",
+      "level": 4
+    },
+    {
+      "text": "UV unwrap a low-ply object",
+      "level": 4
+    },
+    {
+      "text": "Use an SVG file to make part of a 3D model",
+      "level": 5
+    },
+    {
+      "text": "Use boolean tools in 3D software",
+      "level": 5
+    },
+    {
+      "text": "Modify edge normals for low-ply asset design",
+      "level": 5
+    },
+    {
+      "text": "Design a custom model for a friend",
+      "level": 6
+    },
+    {
+      "text": "Model and make something that solves a problem",
+      "level": 6
+    },
+    {
+      "text": "Light and render a 3D object turntable",
+      "level": 6
+    },
+    {
+      "text": "Edit a texture in an image-editing software",
+      "level": 6
+    },
+    {
+      "text": "Create a model in an engineering CAD software",
+      "level": 7
+    },
+    {
+      "text": "Get 3D scanned or 3D scan something",
+      "level": 7
+    },
+    {
+      "text": "Animate a 3D rig from a free model e.g., ball or pendulum rig",
+      "level": 7
+    },
+    {
+      "text": "Make a 2D schematic of a 3D model",
+      "level": 8
+    },
+    {
+      "text": "Render a model in an engineering CAD software",
+      "level": 8
+    },
+    {
+      "text": "Use HDRIs to create realistic lighting",
+      "level": 8
+    },
+    {
+      "text": "Capture a texture from the real world",
+      "level": 8
+    },
+    {
+      "text": "Design something for 3D printing",
+      "level": 9
+    },
+    {
+      "text": "Teach a friend how to 3D model",
+      "level": 9
+    },
+    {
+      "text": "Rig a crane object with FK/IK system",
+      "level": 9
+    },
+    {
+      "text": "Design a model to embed electronics or magnets",
+      "level": 10
+    },
+    {
+      "text": "Design something to be printed in two colors or materials",
+      "level": 10
+    },
+    {
+      "text": "Change the camera settings when rendering",
+      "level": 10
+    },
+    {
+      "text": "UV unwrap a complex object (UDIMs)",
+      "level": 10
+    },
+    {
+      "text": "Design something to be made from a flat material, e.g., sheet metal, papercraft",
+      "level": 11
+    },
+    {
+      "text": "Make a model in a sculpting software",
+      "level": 11
+    },
+    {
+      "text": "Animate a crane rig",
+      "level": 11
+    },
+    {
+      "text": "Reverse engineer something in CAD software",
+      "level": 12
+    },
+    {
+      "text": "Design something to be 3D printed in specialized material",
+      "level": 12
+    },
+    {
+      "text": "Retopologize a 3D model",
+      "level": 12
+    },
+    {
+      "text": "Create a texture in a texturing package, e.g., Substance Painter, Blender, Mudbox",
+      "level": 12
+    },
+    {
+      "text": "Design something to be assembled with different materials",
+      "level": 13
+    },
+    {
+      "text": "Design a custom model for cosplay",
+      "level": 13
+    },
+    {
+      "text": "Use bones & weight painting to rig a model",
+      "level": 13
+    },
+    {
+      "text": "Animate an engineering CAD model",
+      "level": 14
+    },
+    {
+      "text": "Iterative design: make Improvements to a 3D model",
+      "level": 14
+    },
+    {
+      "text": "3D model a character",
+      "level": 14
+    },
+    {
+      "text": "Texture a 3D model with realistic texturing",
+      "level": 14
+    },
+    {
+      "text": "Stress test a model in an engineering CAD software",
+      "level": 15
+    },
+    {
+      "text": "Sell something you've 3D modeled",
+      "level": 15
+    },
+    {
+      "text": "Rig something you've sculpted",
+      "level": 15
+    },
+    {
+      "text": "Create a customizable model in OpenSCAD",
+      "level": 16
+    },
+    {
+      "text": "Design, print and assemble something with multiple parts",
+      "level": 16
+    },
+    {
+      "text": "Use deformers to animate a model",
+      "level": 16
+    },
+    {
+      "text": "Create a 'toon' shader",
+      "level": 16
+    },
+    {
+      "text": "3D model something and upload it under an Open Source licence",
+      "level": 17
+    },
+    {
+      "text": "Make a CAD model of your room, work or home",
+      "level": 17
+    },
+    {
+      "text": "Animate something you've sculpted",
+      "level": 17
+    },
+    {
+      "text": "Design a compliant mechanism",
+      "level": 18
+    },
+    {
+      "text": "Use mathematics to create a 3D model e.g. Grasshopper with Rhino 3D",
+      "level": 18
+    },
+    {
+      "text": "Sculpt something from a reference photo",
+      "level": 18
+    },
+    {
+      "text": "Try out a game engine",
+      "level": 18
+    },
+    {
+      "text": "Design an articulating or print in place model",
+      "level": 19
+    },
+    {
+      "text": "Upload your project and workflow online",
+      "level": 19
+    },
+    {
+      "text": "Create a simple 3D game",
+      "level": 19
+    },
+    {
+      "text": "Teach a class on 3D modeling",
+      "level": 20
+    },
+    {
+      "text": "Make something for VR or AR",
+      "level": 20
+    }
+  ]
+}

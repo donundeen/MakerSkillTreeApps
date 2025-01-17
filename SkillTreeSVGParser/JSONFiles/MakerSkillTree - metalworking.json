@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - metalworking",
+  "Skills": [
+    {
+      "text": "Learn to cut sheet metal",
+      "level": 1
+    },
+    {
+      "text": "Assemble something from metal parts",
+      "level": 1
+    },
+    {
+      "text": "Make something with metal extrusion",
+      "level": 1
+    },
+    {
+      "text": "Learn to drill a hole in metal",
+      "level": 2
+    },
+    {
+      "text": "Learn to use a marking-out and measuring tools",
+      "level": 2
+    },
+    {
+      "text": "Use a rivet gun",
+      "level": 2
+    },
+    {
+      "text": "Finish a sheet metal project",
+      "level": 2
+    },
+    {
+      "text": "Research correct PPE to use for metalworking",
+      "level": 3
+    },
+    {
+      "text": "Get a good pair of safety glasses",
+      "level": 3
+    },
+    {
+      "text": "Learn to fold sheet metal",
+      "level": 3
+    },
+    {
+      "text": "Learn to sharpen and maintain a tool",
+      "level": 4
+    },
+    {
+      "text": "Make a project in aluminum",
+      "level": 4
+    },
+    {
+      "text": "Learn to use an angle grinder",
+      "level": 4
+    },
+    {
+      "text": "Use a horizontal bandsaw",
+      "level": 4
+    },
+    {
+      "text": "Learn to secure a project correctly before working on it",
+      "level": 5
+    },
+    {
+      "text": "Learn to use a die grinder",
+      "level": 5
+    },
+    {
+      "text": "Learn to use a rotary tool",
+      "level": 5
+    },
+    {
+      "text": "Learn about feeds and speeds",
+      "level": 6
+    },
+    {
+      "text": "Use soldering for sheet metal",
+      "level": 6
+    },
+    {
+      "text": "Restore an old, rusty tool",
+      "level": 6
+    },
+    {
+      "text": "Use a vertical bandsaw",
+      "level": 6
+    },
+    {
+      "text": "Make art with metal",
+      "level": 7
+    },
+    {
+      "text": "Polish a metal project",
+      "level": 7
+    },
+    {
+      "text": "Make something with upcycled materials",
+      "level": 7
+    },
+    {
+      "text": "Learn to use a CAD Software",
+      "level": 8
+    },
+    {
+      "text": "Use a hydraulic press in a project",
+      "level": 8
+    },
+    {
+      "text": "Create a large piece of furniture",
+      "level": 8
+    },
+    {
+      "text": "Learn to bend a tube",
+      "level": 8
+    },
+    {
+      "text": "Learn to sharpen a drill bit",
+      "level": 9
+    },
+    {
+      "text": "Tap a hole",
+      "level": 9
+    },
+    {
+      "text": "Get something wrong and try again",
+      "level": 9
+    },
+    {
+      "text": "Make a project in brass",
+      "level": 10
+    },
+    {
+      "text": "Learn to use a mill for metalworking",
+      "level": 10
+    },
+    {
+      "text": "Melt or break a drill bit",
+      "level": 10
+    },
+    {
+      "text": "Use spot welding in a project",
+      "level": 10
+    },
+    {
+      "text": "Make something as a gift",
+      "level": 11
+    },
+    {
+      "text": "Make a project in steel",
+      "level": 11
+    },
+    {
+      "text": "Teach a friend a metalworking skill",
+      "level": 11
+    },
+    {
+      "text": "Use a micrometer to measure accurately",
+      "level": 12
+    },
+    {
+      "text": "Use a CNC Machine",
+      "level": 12
+    },
+    {
+      "text": "Make your own metalworking jig",
+      "level": 12
+    },
+    {
+      "text": "Use mig welding in a project",
+      "level": 12
+    },
+    {
+      "text": "Use a surface grinder in a project",
+      "level": 13
+    },
+    {
+      "text": "Learn to join and add fittings to pipes",
+      "level": 13
+    },
+    {
+      "text": "Make your own tools and heat treat them",
+      "level": 13
+    },
+    {
+      "text": "Learn to use a metal lathe",
+      "level": 14
+    },
+    {
+      "text": "Make something to organise your tools",
+      "level": 14
+    },
+    {
+      "text": "Use brazing to join two parts",
+      "level": 14
+    },
+    {
+      "text": "Use stick welding in a project",
+      "level": 14
+    },
+    {
+      "text": "Use a CNC lathe",
+      "level": 15
+    },
+    {
+      "text": "Learn a blacksmithing skill",
+      "level": 15
+    },
+    {
+      "text": "Do a butt-joint or lap-joint weld",
+      "level": 15
+    },
+    {
+      "text": "Sell something you’ve made",
+      "level": 16
+    },
+    {
+      "text": "Fix a machine or tool when it breaks",
+      "level": 16
+    },
+    {
+      "text": "Use a plasma cutter",
+      "level": 16
+    },
+    {
+      "text": "Use tig welding in a project",
+      "level": 16
+    },
+    {
+      "text": "Add timber to a metalworking project",
+      "level": 17
+    },
+    {
+      "text": "Include electronics in a metalworking project",
+      "level": 17
+    },
+    {
+      "text": "Do a corner- joint or tee-joint weld",
+      "level": 17
+    },
+    {
+      "text": "Use powdercoating in a project",
+      "level": 18
+    },
+    {
+      "text": "Use metalworking in a robotics project",
+      "level": 18
+    },
+    {
+      "text": "Engrave a project",
+      "level": 18
+    },
+    {
+      "text": "Make a very large metalworking project",
+      "level": 18
+    },
+    {
+      "text": "Use anodizing in a project",
+      "level": 19
+    },
+    {
+      "text": "Teach a metalworking class",
+      "level": 19
+    },
+    {
+      "text": "Teach a welding class",
+      "level": 19
+    },
+    {
+      "text": "Design something and upload instructions online",
+      "level": 20
+    },
+    {
+      "text": "Learn G-code commands",
+      "level": 20
+    }
+  ]
+}

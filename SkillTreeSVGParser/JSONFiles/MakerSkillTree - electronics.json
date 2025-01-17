@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - electronics",
+  "Skills": [
+    {
+      "text": "Learn to solder and soldering safety",
+      "level": 1
+    },
+    {
+      "text": "Light up an LED",
+      "level": 1
+    },
+    {
+      "text": "Learn to read a schematic",
+      "level": 1
+    },
+    {
+      "text": "Learn to use a breadboard",
+      "level": 2
+    },
+    {
+      "text": "Complete an electronics kit",
+      "level": 2
+    },
+    {
+      "text": "Learn to use wire strippers",
+      "level": 2
+    },
+    {
+      "text": "Learn about Ohm’s Law",
+      "level": 2
+    },
+    {
+      "text": "Make a DIY capacitor",
+      "level": 3
+    },
+    {
+      "text": "Make something with Arduino or a dev board",
+      "level": 3
+    },
+    {
+      "text": "Learn about voltage, current and resistance",
+      "level": 3
+    },
+    {
+      "text": "Learn to desolder a through-hole component",
+      "level": 4
+    },
+    {
+      "text": "Measure voltage with a multimeter",
+      "level": 4
+    },
+    {
+      "text": "Learn about different types of batteries",
+      "level": 4
+    },
+    {
+      "text": "Learn to read a datasheet",
+      "level": 4
+    },
+    {
+      "text": "Get a circuit wrong and try again",
+      "level": 5
+    },
+    {
+      "text": "Turn a breadboard circuit into a schematic and vice versa",
+      "level": 5
+    },
+    {
+      "text": "Use Use addressable RGB LEDs in a project",
+      "level": 5
+    },
+    {
+      "text": "Make a voltage divider to lower the voltage for a project",
+      "level": 6
+    },
+    {
+      "text": "Measure current with a multimeter",
+      "level": 6
+    },
+    {
+      "text": "Make an oscillator that makes noise",
+      "level": 6
+    },
+    {
+      "text": "Use a diode to protect your circuit from reverse voltages",
+      "level": 6
+    },
+    {
+      "text": "Turn something on using a sensor",
+      "level": 7
+    },
+    {
+      "text": "Use an LED matrix in a project",
+      "level": 7
+    },
+    {
+      "text": "Fix something that’s broken",
+      "level": 7
+    },
+    {
+      "text": "Learn to solder surface-mount parts",
+      "level": 8
+    },
+    {
+      "text": "Make a project with a Raspberry Pi",
+      "level": 8
+    },
+    {
+      "text": "Amplify a sound or signal",
+      "level": 8
+    },
+    {
+      "text": "Make an Internet of Things (IoT) project",
+      "level": 8
+    },
+    {
+      "text": "Use a relay to switch something on at a higher voltage",
+      "level": 9
+    },
+    {
+      "text": "Use a 555 timer in a circuit",
+      "level": 9
+    },
+    {
+      "text": "Build a robot",
+      "level": 9
+    },
+    {
+      "text": "Make your own USB cable",
+      "level": 10
+    },
+    {
+      "text": "Measure frequency with a multimeter or oscilloscope",
+      "level": 10
+    },
+    {
+      "text": "Accidentally let out the magic smoke",
+      "level": 10
+    },
+    {
+      "text": "Use a shift register in a project",
+      "level": 10
+    },
+    {
+      "text": "Make a counter with logic gates",
+      "level": 11
+    },
+    {
+      "text": "Make a motor controller with a H Bridge",
+      "level": 11
+    },
+    {
+      "text": "Use a crowbar circuit to protect against overvoltage",
+      "level": 11
+    },
+    {
+      "text": "Teach a friend an electronics skill",
+      "level": 12
+    },
+    {
+      "text": "Make something with solar panels",
+      "level": 12
+    },
+    {
+      "text": "Make an antenna",
+      "level": 12
+    },
+    {
+      "text": "Measure capacitor equivalent series resistance",
+      "level": 12
+    },
+    {
+      "text": "Make something with a seven segment display",
+      "level": 13
+    },
+    {
+      "text": "Measure voltage with an oscilloscope",
+      "level": 13
+    },
+    {
+      "text": "Make an open source project",
+      "level": 13
+    },
+    {
+      "text": "Make a regulated power supply",
+      "level": 14
+    },
+    {
+      "text": "Use a surge diode to project a circuit",
+      "level": 14
+    },
+    {
+      "text": "Look at an audio input on an oscilloscope",
+      "level": 14
+    },
+    {
+      "text": "Learn PCB Design Software",
+      "level": 14
+    },
+    {
+      "text": "Use a MOSFET instead of a relay in a project",
+      "level": 15
+    },
+    {
+      "text": "Filter unwanted noise from a signal",
+      "level": 15
+    },
+    {
+      "text": "Repair a mistake on a PCB",
+      "level": 15
+    },
+    {
+      "text": "Use automatic gain control",
+      "level": 16
+    },
+    {
+      "text": "Use a frequency analyzer for a project",
+      "level": 16
+    },
+    {
+      "text": "Apply solder paste to a PCB with a stencil",
+      "level": 16
+    },
+    {
+      "text": "Order a PCB with your design",
+      "level": 16
+    },
+    {
+      "text": "Make a PID circuit with Op-Amps",
+      "level": 17
+    },
+    {
+      "text": "Build a Radio Frequency (RF) Project",
+      "level": 17
+    },
+    {
+      "text": "Design a PCB SAO or badge for a conference",
+      "level": 17
+    },
+    {
+      "text": "Make an electronic sculpture",
+      "level": 18
+    },
+    {
+      "text": "Release a tutorial on a project you’ve made",
+      "level": 18
+    },
+    {
+      "text": "Use a pick- and-place machine",
+      "level": 18
+    },
+    {
+      "text": "Make something with PCB Art",
+      "level": 18
+    },
+    {
+      "text": "Make a switch- mode power supply",
+      "level": 19
+    },
+    {
+      "text": "Teach a class on Electronics",
+      "level": 19
+    },
+    {
+      "text": "Use capacitive touch in a PCB design",
+      "level": 19
+    },
+    {
+      "text": "Create an FPGA Project",
+      "level": 20
+    },
+    {
+      "text": "Design a 3-plus layer PCB",
+      "level": 20
+    }
+  ]
+}

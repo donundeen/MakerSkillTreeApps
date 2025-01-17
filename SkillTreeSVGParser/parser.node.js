@@ -5,6 +5,8 @@ const path = require('path');
 
 const baseDir = '/Users/donundeen/Documents/htdocs/MakerSkillTree';//'../SkillTreeFiles';
 
+const outputDir = '/Users/donundeen/Documents/htdocs/MakerSkillTreeApps/SkillTreeSVGParser/JSONFiles';
+
 // Function to parse SVG files
 function parseSVG(filePath) {
     console.log(filePath);
@@ -76,15 +78,19 @@ function parseSVG(filePath) {
             // Remove x and y properties from each textElement
             const finalTextElements = flattenedTextElements.map(({ x, y, ...rest }) => rest);
 
-            let finalJSON = {
-                "Title": filePath,
-                "Skills": finalTextElements
-            };
+
 
 //            console.log(finalJSON);
 
-            // Save the resulting JSON data to a file
-            const jsonFilePath = filePath.replace(/\.svg$/, '.json'); // Replace .svg with .json
+            // Save the resulting JSON data to a file in the output directory
+            const jsonFileName = path.basename(filePath).replace(/\.svg$/, '.json'); // Get the file name and replace .svg with .json
+            const jsonFilePath = path.join(outputDir, jsonFileName); // Combine outputDir with the new file name
+
+            let finalJSON = {
+                "Title": path.basename(filePath).replace(/\.svg$/, ''),
+                "Skills": finalTextElements
+            };            
+
             fs.writeFile(jsonFilePath, JSON.stringify(finalJSON, null, 2), (err) => {
                 if (err) {
                     console.error('Error writing JSON file:', err);

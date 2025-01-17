@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - 3D_Printing English",
+  "Skills": [
+    {
+      "text": "Learn the difference between resin and FDM printers",
+      "level": 1
+    },
+    {
+      "text": "Pick a simple 3D model to print",
+      "level": 1
+    },
+    {
+      "text": "Learn to use slicing software",
+      "level": 1
+    },
+    {
+      "text": "Visit your local makerspace",
+      "level": 2
+    },
+    {
+      "text": "Learn about 3D printer fumes, extraction and safety",
+      "level": 2
+    },
+    {
+      "text": "Learn how to safely handle 3D printer resin to avoid chemical burns",
+      "level": 2
+    },
+    {
+      "text": "Set up a resin printing PPE and wash & cure station",
+      "level": 2
+    },
+    {
+      "text": "Use an FDM printer for the first time",
+      "level": 3
+    },
+    {
+      "text": "Print something with multiple parts and assemble",
+      "level": 3
+    },
+    {
+      "text": "Use a resin printer for the first time",
+      "level": 3
+    },
+    {
+      "text": "Print in PLA material",
+      "level": 4
+    },
+    {
+      "text": "Accidentally break a print while removing support material",
+      "level": 4
+    },
+    {
+      "text": "Calibrate a resin printer",
+      "level": 4
+    },
+    {
+      "text": "Print an organizer for the home",
+      "level": 4
+    },
+    {
+      "text": "Have a print failure with lots of spaghetti",
+      "level": 5
+    },
+    {
+      "text": "Learn how to load and unload filament or resin",
+      "level": 5
+    },
+    {
+      "text": "Send a file to a printer wirelessly",
+      "level": 5
+    },
+    {
+      "text": "Learn about Precious Plastic recycling",
+      "level": 6
+    },
+    {
+      "text": "Print a compliant mechanism",
+      "level": 6
+    },
+    {
+      "text": "Learn how to do maintenance on a 3D printer",
+      "level": 6
+    },
+    {
+      "text": "Print something functional",
+      "level": 6
+    },
+    {
+      "text": "Print a model with tree supports",
+      "level": 7
+    },
+    {
+      "text": "Print an articulating or print in place model",
+      "level": 7
+    },
+    {
+      "text": "Have a failed print and fix the problem",
+      "level": 7
+    },
+    {
+      "text": "Do a hot pull and cold pull cycle to unclog a nozzle",
+      "level": 8
+    },
+    {
+      "text": "Model and print something that solves a problem",
+      "level": 8
+    },
+    {
+      "text": "3D print something on fabric",
+      "level": 8
+    },
+    {
+      "text": "Use spiralize or vase mode to print something",
+      "level": 8
+    },
+    {
+      "text": "Change a nozzle for the first time",
+      "level": 9
+    },
+    {
+      "text": "Embed electronics or magnets inside a 3D print",
+      "level": 9
+    },
+    {
+      "text": "Use ironing in slicing software",
+      "level": 9
+    },
+    {
+      "text": "Upload a remix of a 3D model",
+      "level": 10
+    },
+    {
+      "text": "Print in two colors or materials",
+      "level": 10
+    },
+    {
+      "text": "Print something to wear",
+      "level": 10
+    },
+    {
+      "text": "Mix your own resin blend",
+      "level": 10
+    },
+    {
+      "text": "Print something that requires more than 1kg of filament",
+      "level": 11
+    },
+    {
+      "text": "Use PVA dissolvable support material",
+      "level": 11
+    },
+    {
+      "text": "Use advanced slicer settings",
+      "level": 11
+    },
+    {
+      "text": "Assemble something large with 3D printed parts",
+      "level": 12
+    },
+    {
+      "text": "Print in a flexible material",
+      "level": 12
+    },
+    {
+      "text": "Print in ABS or PETG material",
+      "level": 12
+    },
+    {
+      "text": "Print something for cosplay or prop making",
+      "level": 12
+    },
+    {
+      "text": "Sell something you've 3D printed",
+      "level": 13
+    },
+    {
+      "text": "Print a mold for a casting project",
+      "level": 13
+    },
+    {
+      "text": "Make a lithophane from a photo or image",
+      "level": 13
+    },
+    {
+      "text": "Install and use a non-standard nozzle",
+      "level": 14
+    },
+    {
+      "text": "Print something again after making design improvements",
+      "level": 14
+    },
+    {
+      "text": "Repair something with 3D printing",
+      "level": 14
+    },
+    {
+      "text": "Recycle filament or failed prints",
+      "level": 14
+    },
+    {
+      "text": "Mod your 3D printer with something 3D printed",
+      "level": 15
+    },
+    {
+      "text": "Get 3D scanned and print a model of yourself",
+      "level": 15
+    },
+    {
+      "text": "Teach a friend how to 3D print",
+      "level": 15
+    },
+    {
+      "text": "Print a gift for a friend or family member",
+      "level": 16
+    },
+    {
+      "text": "Sand and paint something you've printed",
+      "level": 16
+    },
+    {
+      "text": "Print something in metal or metal-like material",
+      "level": 16
+    },
+    {
+      "text": "Try a different slicing software",
+      "level": 16
+    },
+    {
+      "text": "Reverse engineer something in CAD software and print",
+      "level": 17
+    },
+    {
+      "text": "Make your own filament",
+      "level": 17
+    },
+    {
+      "text": "Use heat set threaded inserts in a part",
+      "level": 17
+    },
+    {
+      "text": "3D model something and upload it under an open source license",
+      "level": 18
+    },
+    {
+      "text": "Use a multi material 3D printer",
+      "level": 18
+    },
+    {
+      "text": "Print something that isn't plastic e.g., food, clay, pancake",
+      "level": 18
+    },
+    {
+      "text": "Try heat annealing a part to make it stronger",
+      "level": 18
+    },
+    {
+      "text": "Print in nylon or ASA material",
+      "level": 19
+    },
+    {
+      "text": "Teach a class on 3D Printing or 3D modeling",
+      "level": 19
+    },
+    {
+      "text": "Acetone smooth an ABS part",
+      "level": 19
+    },
+    {
+      "text": "Create a project how-to guide",
+      "level": 20
+    },
+    {
+      "text": "Build your own 3D printer e.g., Voron, RatRig",
+      "level": 20
+    }
+  ]
+}

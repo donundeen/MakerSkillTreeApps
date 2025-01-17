@@ -1,0 +1,277 @@
+{
+  "Title": "MakerSkillTree - dev_boards",
+  "Skills": [
+    {
+      "text": "Select and flash a Raspberry Pi OS on an SD Card",
+      "level": 1
+    },
+    {
+      "text": "Learn to use a breadboard",
+      "level": 1
+    },
+    {
+      "text": "Blink an LED",
+      "level": 1
+    },
+    {
+      "text": "Set up a Raspberry Pi for the first time",
+      "level": 2
+    },
+    {
+      "text": "Use Ohm’s Law to select a resistor for an LED",
+      "level": 2
+    },
+    {
+      "text": "Alter example Arduino code",
+      "level": 2
+    },
+    {
+      "text": "Use a button or a switch in a circuit",
+      "level": 2
+    },
+    {
+      "text": "Use Raspberry Pi command line for the first time",
+      "level": 3
+    },
+    {
+      "text": "Use a multimeter to measure circuit continuity",
+      "level": 3
+    },
+    {
+      "text": "Use TinkerCAD to code and simulate an Arduino project",
+      "level": 3
+    },
+    {
+      "text": "Print ‘Hello World’ on Raspberry Pi",
+      "level": 4
+    },
+    {
+      "text": "Learn to solder and soldering safety",
+      "level": 4
+    },
+    {
+      "text": "Use the Arduino Serial Monitor",
+      "level": 4
+    },
+    {
+      "text": "Use a servo motor in a project",
+      "level": 4
+    },
+    {
+      "text": "Make an LED blink with Python",
+      "level": 5
+    },
+    {
+      "text": "Use a multimeter to measure voltage or current",
+      "level": 5
+    },
+    {
+      "text": "Use a rotary encoder and stepper driver to move a stepper motor",
+      "level": 5
+    },
+    {
+      "text": "Use a Raspberry Pi hat",
+      "level": 6
+    },
+    {
+      "text": "Get a project wrong and try again",
+      "level": 6
+    },
+    {
+      "text": "Let the smoke out of a dev board accidentally",
+      "level": 6
+    },
+    {
+      "text": "Build your own enclosure for a project",
+      "level": 6
+    },
+    {
+      "text": "Use WiFi to send data from a dev board",
+      "level": 7
+    },
+    {
+      "text": "Use environmental sensors in a project",
+      "level": 7
+    },
+    {
+      "text": "Use an Arduino shield",
+      "level": 7
+    },
+    {
+      "text": "Use an SBC to receive MQTT messages from a dev board",
+      "level": 8
+    },
+    {
+      "text": "Use a sensor to trigger an action",
+      "level": 8
+    },
+    {
+      "text": "Use the real time clock for scheduling",
+      "level": 8
+    },
+    {
+      "text": "Make a project that moves",
+      "level": 8
+    },
+    {
+      "text": "Schedule a task for Raspberry Pi or other SBC",
+      "level": 9
+    },
+    {
+      "text": "Teach a friend a dev board skill",
+      "level": 9
+    },
+    {
+      "text": "Detect a person with a sensor",
+      "level": 9
+    },
+    {
+      "text": "Use a dev board to wirelessly control an IoT powerpoint",
+      "level": 10
+    },
+    {
+      "text": "Use LED strip in a project",
+      "level": 10
+    },
+    {
+      "text": "Use an interrupt in a project",
+      "level": 10
+    },
+    {
+      "text": "Monitor your environment with a dev board",
+      "level": 10
+    },
+    {
+      "text": "Use renewable energy in a project",
+      "level": 11
+    },
+    {
+      "text": "Use an LED Matrix in a project",
+      "level": 11
+    },
+    {
+      "text": "Participate in a Hackathon",
+      "level": 11
+    },
+    {
+      "text": "Use a PID Controller",
+      "level": 12
+    },
+    {
+      "text": "Use Python in a project",
+      "level": 12
+    },
+    {
+      "text": "Use a screen in a project",
+      "level": 12
+    },
+    {
+      "text": "Use a joystick or gamepad in a project",
+      "level": 12
+    },
+    {
+      "text": "Use RTOS with a dev board",
+      "level": 13
+    },
+    {
+      "text": "Send data wirelessly using BLE",
+      "level": 13
+    },
+    {
+      "text": "Make a project for everyday use",
+      "level": 13
+    },
+    {
+      "text": "Use MIDI files in a project",
+      "level": 14
+    },
+    {
+      "text": "Use RFID in a project",
+      "level": 14
+    },
+    {
+      "text": "Use sleep mode to save power",
+      "level": 14
+    },
+    {
+      "text": "Use PWM to control the speed of a DC motor",
+      "level": 14
+    },
+    {
+      "text": "Send data to an online server (e.g., MQTT)",
+      "level": 15
+    },
+    {
+      "text": "Make a project with a camera",
+      "level": 15
+    },
+    {
+      "text": "Reprogram the bootloader on a dev board",
+      "level": 15
+    },
+    {
+      "text": "Run out of memory in a project",
+      "level": 16
+    },
+    {
+      "text": "Debug voltage drops",
+      "level": 16
+    },
+    {
+      "text": "Make something for gaming",
+      "level": 16
+    },
+    {
+      "text": "Use encoders to measure motor rotation",
+      "level": 16
+    },
+    {
+      "text": "Make a wearable- tech project with a dev board",
+      "level": 17
+    },
+    {
+      "text": "Make a gift for someone with a dev board",
+      "level": 17
+    },
+    {
+      "text": "Do a robotics Project",
+      "level": 17
+    },
+    {
+      "text": "Turn a home appliance into a smart device",
+      "level": 18
+    },
+    {
+      "text": "Teach a class on a dev board",
+      "level": 18
+    },
+    {
+      "text": "Send data with LoraWAN, Nb-IOT or others",
+      "level": 18
+    },
+    {
+      "text": "Make an open source project",
+      "level": 18
+    },
+    {
+      "text": "Use TinyML in a project (e.g., object detection)",
+      "level": 19
+    },
+    {
+      "text": "Create an FPGA Project",
+      "level": 19
+    },
+    {
+      "text": "Release a tutorial on a project you’ve made",
+      "level": 19
+    },
+    {
+      "text": "Design your own Arduino HAT/RasPi shield/dev board",
+      "level": 20
+    },
+    {
+      "text": "Do an autonomous robotics project",
+      "level": 20
+    }
+  ]
+}
